@@ -6,7 +6,7 @@ uPic 版本 0.21.1
 
 ### 1.1 自定义图床
 
-![image-20220813000637164](/Users/weihuchao/Veeva/github/uPic-file-server/assets/image-20220813000637164.png)
+![image-20220813000637164](assets/image-20220813000637164.png)
 
 1. 设置API地址；
 2. 请求方式POST，勾选使用Base64；
@@ -17,7 +17,7 @@ uPic 版本 0.21.1
 
 点击**其他字段**后点击**增加Body字段**添加数据：
 
-![image-20220813001103626](/Users/weihuchao/Veeva/github/uPic-file-server/assets/image-20220813001103626.png)
+![image-20220813001103626](assets/image-20220813001103626.png)
 
 1. 新增filename和suffix；
 2. 新增secret并修改值。
